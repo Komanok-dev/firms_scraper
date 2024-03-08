@@ -6,10 +6,15 @@ This scraper gets all info about every firm from [legal500.com](https://www.lega
 
 ![fs.jpg](https://i.postimg.cc/T2VQNG4t/fs.jpg)
 
+## Technology stack: 
+* Python3
+* Beautiful Soup
+* Selenium
+* SQLite
+
 ## Requirements
 
 You must have Python 3.7 or greater. You can download the latest Python release [here](https://www.python.org/downloads/).
-
 
 ## Install
 
@@ -25,7 +30,6 @@ Clone repository and install needed modules:
 ## Usage
 
 Just run and be patient for several hours
-
 
 Run the program from the firms_scraper folder:
 ```
