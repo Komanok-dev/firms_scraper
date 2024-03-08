@@ -1,8 +1,8 @@
 # Firms Scrapper
 
-This scraper get all info about every firm from [legal500.com](https://www.legal500.com/law-firm-profiles/) and saves it to structured local database.
+This scraper gets all info about every firm from [legal500.com](https://www.legal500.com/law-firm-profiles/) and saves it to structured local database.
 
-#### Screenshot example
+#### Database diagram
 
 ![fs.jpg](https://i.postimg.cc/T2VQNG4t/fs.jpg)
 
